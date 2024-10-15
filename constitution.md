@@ -340,7 +340,7 @@ and shall report to and be responsible to the Board.
 
 "Board" means the board of directors of the Club.
 
-"Club" means the San Diego Football Club Inc.
+"Club" means the San Diego Lions Australian Rules Football Club
 
 “Constitution” means this constitution.
 
