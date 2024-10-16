@@ -1,3 +1,9 @@
+---
+layout: default
+title: Constitution
+permalink: /constitution/
+---
+
 # Constitution
 
 Constitution of the San Diego Lions Australian Rules Football Club
