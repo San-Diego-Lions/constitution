@@ -13,17 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: San Diego Lions
-email: your-email@example.com
+title: Constitution
+email: sandiegolionsAFC@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  San Diego Lions Australian Rules Football Club. The home of the club's
-  constitution as well as other resources.
-baseurl: "/san-diego-lions" # the subpath of your site, e.g. /blog
-url: "https://moose-byte.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+  Constitution of the San Diego Lions Australian Rules Football Club
+baseurl: "/constitution" # the subpath of your site, e.g. /blog
+url: "https://san-diego-lions.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github: [metadata]
 
 # Build settings
 markdown: kramdown
-#theme: dinky
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
