@@ -74,7 +74,7 @@ remuneration for services rendered to any player or any other person employed by
     2. Life Members
     3. Honorary Members
     4. Student Members
-    5. A category determined by the Board pursuant to (c).
+    5. A category determined by the Board pursuant to (3) below
 2. The Board may amend or delete any existing category of membership or add new categories from time to time as it sees
    fit.
 3. Membership of the Club shall unless otherwise specified pursuant to this constitution be from 1 January to 31
