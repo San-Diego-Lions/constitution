@@ -171,6 +171,10 @@ The Secretary shall record the vote tally at the Annual General Election.
 ### The Director of Football Operations
 
 The Director Of Football Operations shall be elected annually.
+The Director Of Football Operations will work closely with the Coaches, Captains and Vice-Captains to implement
+strategies to further improve the club's on-field performance.
+The Director Of Football Operations shall be responsible for planning the club's game schedule.
+The Director Of Football Operations shall be responsible for planning the club's practice schedule.
 
 ### The Treasurer
 
@@ -180,6 +184,11 @@ The Treasurer shall present a statement at each monthly meeting and a final stat
 The Treasurer shall collect all dues, ground fees and monies from the members for The Club.
 The Treasurer is forbidden from using his/her own personal funds to pay for any Club debts or bills.
 The Treasurer shall pay all outstanding bills approved by the members and incurred by The Club or members.
+
+### Social Director
+
+The Social Director shall be elected annually.
+The Social Director shall be responsible for planning social events throughout the year.
 
 ### Member at Large
 
