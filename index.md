@@ -134,6 +134,7 @@ The Officers of the Club Board shall consist of:
 * Director Of Football Operations
 * Treasurer
 * Social Director
+* Director of Growth
 * Member At Large
 
 ### The President
