@@ -41,14 +41,15 @@ The objects for which the Club is established are:
    fellowship amongst its Members.
 3. To purchase or otherwise acquire any real or personal property for the purposes of the Club.
 4. To make such agreements with cities, towns, or other bodies for the purpose of leasing or other hiring of suitable
-   property or properties for the purposes of the Club
+   property or properties for the purposes of the Club.
 5. To enter into such agreements as are necessary and reasonable for the proper utilisation of the Club's assets and for
    the proper carrying out of the other objects here in detail.
 
 ## Affiliation
 
-The Club shall be affiliated with the association known as the United States Australian Football League and California
-Australian Football League.
+The Club shall be affiliated with the associations known as the United States Australian Football League (USAFL) and
+California
+Australian Football League (CAFL).
 
 ## Colours
 
@@ -94,8 +95,8 @@ remuneration for services rendered to any player or any other person employed by
 
 1. Life Members may be elected by a Special Resolution of Members present at the Annual General Meeting at the
    recommendation of the Board for specially meritorious service rendered to the Club. They shall be entitled to all the
-   privileges of Ordinary Members but shall be exempt from payment of
-2. Not more than three (1) Life Members may be elected in any one year providing however that any player who has
+   privileges of Ordinary Members but shall be exempt from payment of annual dues.
+2. Not more than three (3) Life Members may be elected in any one year providing however that any player who has
    completed one hundred and fifty (150) League Games for the Club may be elected a Life Member at the Annual General
    Meeting by a Special Resolution of Members present, on the recommendation of the Board.
 
@@ -109,29 +110,29 @@ both on and off the field. Any member who acts in a manner prejudicial to the in
 accountable for his or her actions to the Board of The Club.
 
 A complaint against a Club member must be made by a minimum of three (3) current Club members, in writing, to the Board,
-who will then Consult as appropriate with all such affected and concerned parties. The Board will issue, by majority
-vote, a binding decision within ten (10) days of the complaint. The Boards interpretation of events will be final.
+who will then consult as appropriate with all such affected and concerned parties. The Board will issue, by majority
+vote, a binding decision within ten (10) days of the complaint. The Board's interpretation of events will be final.
 
 All members shall be bound by and required to maintain in good faith all decisions, agreements and rulings the members
 shall make at monthly meetings or Annual General Meetings.
 
 All members in good standing of the Club are eligible for election to any of the Executive positions as qualified under
-Bylaw Section I - 6. No member can be nominated for office without the member’s prior consent to the nominator.
+this Constitution. No member can be nominated for office without the member’s prior consent to the nominator.
 
 Disciplinary procedures are deemed solely the responsibility of The Club, regardless of the position of the CAFL or
 USAFL and regardless of whether or not either of those bodies is taking action.
 
 ## Board
 
-The Board shall consist of the President and six (6) other Members of the Club all of whom shall be elected by the
-Ordinary and Life Members as provided by this Constitution. The members of the Board shall be known as "Officers"
-The Board shall have final determination on interpretation of the Bylaws.
+The Board shall consist of seven (7) Members of the Club all of whom shall be elected by the
+Ordinary and Life Members as provided by this Constitution. The members of the Board shall be known as "Officers."
+The Board shall have final determination on interpretation of the Constitution.
 The Officers of the Club Board shall consist of:
 
 * President
 * Vice President
 * Secretary
-* Director Of Football Operations
+* Director of Football Operations
 * Treasurer
 * Social Director
 * Director of Growth
@@ -163,7 +164,7 @@ non-participating members) prior to their presentation at a regular meeting.
 The Secretary shall be elected annually.
 The Secretary shall perform such correspondence duties as called upon or directed to do.
 The Secretary shall maintain a record of all incoming correspondence as is directed to The Club.
-The Secretary shall by request of members provide copies of the Bylaws.
+The Secretary shall by request of members provide copies of the Constitution.
 The Secretary shall record the minutes of each meeting in a clear and legible manner and present them at the following
 meeting.
 The Secretary shall keep a Roll-Call attendance tally on all members.
@@ -171,7 +172,11 @@ The Secretary shall record the vote tally at the Annual General Election.
 
 ### The Director of Football Operations
 
-The Director Of Football Operations shall be elected annually.
+The Director of Football Operations shall be elected annually.
+The Director of Football Operations will work closely with the Coaches, Captains and Vice-Captains to implement
+strategies to further improve the club's on-field performance.
+The Director of Football Operations shall be responsible for planning the club's game schedule.
+The Director of Football Operations shall be responsible for planning the club's practice schedule.
 
 ### The Treasurer
 
@@ -181,6 +186,11 @@ The Treasurer shall present a statement at each monthly meeting and a final stat
 The Treasurer shall collect all dues, ground fees and monies from the members for The Club.
 The Treasurer is forbidden from using his/her own personal funds to pay for any Club debts or bills.
 The Treasurer shall pay all outstanding bills approved by the members and incurred by The Club or members.
+
+### Social Director
+
+The Social Director shall be elected annually.
+The Social Director shall be responsible for planning social events throughout the year.
 
 ### Member at Large
 
@@ -203,14 +213,15 @@ less than twelve (12) months.
 Nominations shall only be considered for those members who are in good standing and whose membership has continuously
 remained so for the following periods of time immediately prior to the AGM:
 
-| Position                         | Requirement                                                                                                                                                |
-|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| President                        | At least 2 full seasons’ membership, of which at least 2 previous years (not necessarily consecutive) must have been served in another Executive position. |
-| Vice President                   | At least 1 full seasons’ membership, of which at least 1 previous year must have been served in  another Executive position.                               |
-| Treasurer                        | At least 1 full seasons’ membership.                                                                                                                       |
-| Secretary                        | At least 1 full seasons’ membership.                                                                                                                       |
-| Directory of Football Operations | At least 1 full seasons’ membership.                                                                                                                       |
-| Captains and Vice Captains       | At least 1 full seasons’ membership.                                                                                                                       |
+| Position                        | Requirement                                                                                                                                                |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| President                       | At least 2 full seasons’ membership, of which at least 2 previous years (not necessarily consecutive) must have been served in another Executive position. |
+| Vice President                  | At least 1 full seasons’ membership, of which at least 1 previous year must have been served in  another Executive position.                               |
+| Treasurer                       | At least 1 full seasons’ membership.                                                                                                                       |
+| Social Director                 | At least 1 full seasons' membership.                                                                                                                       |
+| Member at Large                 | At least 1 full seasons' membership.                                                                                                                       |
+| Secretary                       | At least 1 full seasons’ membership.                                                                                                                       |
+| Director of Football Operations | At least 1 full seasons’ membership.                                                                                                                       |
 
 In the event of unavoidable absence from the AGM by a voting member, a proxy vote may be delivered to the Secretary. A
 proxy vote must be received by the Secretary at least 24 hours prior to the start of the AGM. Proxy votes shall only be
@@ -243,7 +254,7 @@ Notice of every meeting shall be forwarded by the Secretary to each member of th
 prior to such meeting.
 
 Minutes of all resolutions and proceedings of the Board shall be entered in a book provided for that purpose.
-Four (4) members of the Board shall form a quorum.
+A majority of the Board (four (4) members) shall form a quorum.
 
 ## Non-Attendance at Board Meetings
 
@@ -265,8 +276,7 @@ same are received and such moneys shall be used for the expenses of the Club.
 ## Auditors
 
 The accounts of the Club shall be audited by at least one (1) person who is a qualified accountant, such person may be a
-Member or an employee of a firm of Accountants. The Auditor shall be appointed at the Annual General Meeting. (are we at
-this point yet. Should we have some kind of independent review of the finances)
+Member or an employee of a firm of Accountants. The Auditor shall be appointed at the Annual General Meeting.
 
 ## Meetings
 
@@ -281,9 +291,7 @@ matters relevant thereto.
 The Annual General Meeting and all Special General Meetings shall be called by circular addressed to each Member at
 least fourteen (14) days previous to each meeting.
 
-The Club Bylaws may be amended at any General Meeting or Annual General Meeting, provided that fifteen days written
-notice of such amendment, citing the Bylaws to be changed when appropriate, has been given to all eligible voting
-members. Each amendment must have a proposer and seconder, the names of whom should appear on the intended amendment.
+The Club Constitution may be amended at any General Meeting or Annual General Meeting, provided that fourteen (14) days written notice of such amendment, citing the Constitution clauses to be changed when appropriate, has been given to all eligible voting members. Each amendment must have a proposer and seconder, the names of whom should appear on the intended amendment.
 
 ## Members' Voting
 
@@ -292,7 +300,8 @@ the previous 31st of October shall be entitled to vote at the Annual General Mee
 of the Club.
 
 All propositions, questions and matters submitted in accordance with this Constitution to the Annual General Meeting or
-Special General Meeting excepting alterations to this Constitution as provided for by clause 58 shall be decided by a
+Special General Meeting excepting alterations to this Constitution as provided for in the Alteration section shall be
+decided by a
 majority of those present to be determined in the first instance by a show of hands unless a ballot be demanded by at
 least ten (10) Members present.
 
@@ -319,12 +328,12 @@ respectively and words importing the masculine, feminine or neuter gender shall 
 No clause shall be amended or repealed nor shall any new clause inserted except on the vote of a Special Resolution of
 Members present at the Annual General Meeting or a Special General Meeting duly convened and for the purpose of this
 clause fifteen (15) Members shall constitute a quorum. Notice of any proposed amendment, repeal or addition must be
-given by notice in writing to the General Manager in time for him to give fourteen (14) days' notice of such amendment
+given by notice in writing to the Secretary in time for them to give fourteen (14) days' notice of such amendment
 or addition or repeal to all Members.
 
 ## Trustees
 
-There shall be three (3) Trustees appointed by the Board one of whom may be the General Manager for such period as the
+There shall be three (3) Trustees appointed by the Board one of whom may be the President for such period as the
 Board determines. Such Trustees shall be the signatories to the Club's Bank Accounts and the persons authorised to
 witness the affixing of the Common Seal to all agreements binding the Club.
 
