@@ -47,7 +47,8 @@ The objects for which the Club is established are:
 
 ## Affiliation
 
-The Club shall be affiliated with the associations known as the United States Australian Football League (USAFL) and California
+The Club shall be affiliated with the associations known as the United States Australian Football League (USAFL) and
+California
 Australian Football League (CAFL).
 
 ## Colours
@@ -211,14 +212,16 @@ less than twelve (12) months.
 Nominations shall only be considered for those members who are in good standing and whose membership has continuously
 remained so for the following periods of time immediately prior to the AGM:
 
-| Position                          | Requirement                                                                                                                                                |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| President                         | At least 2 full seasons’ membership, of which at least 2 previous years (not necessarily consecutive) must have been served in another Executive position. |
-| Vice President                    | At least 1 full seasons’ membership, of which at least 1 previous year must have been served in  another Executive position.                               |
-| Treasurer                         | At least 1 full seasons’ membership.                                                                                                                       |
-| Secretary                         | At least 1 full seasons’ membership.                                                                                                                       |
-| Director of Football Operations   | At least 1 full seasons’ membership.                                                                                                                       |
-| Captains and Vice Captains        | At least 1 full seasons’ membership.                                                                                                                       |
+| Position                        | Requirement                                                                                                                                                |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| President                       | At least 2 full seasons’ membership, of which at least 2 previous years (not necessarily consecutive) must have been served in another Executive position. |
+| Vice President                  | At least 1 full seasons’ membership, of which at least 1 previous year must have been served in  another Executive position.                               |
+| Treasurer                       | At least 1 full seasons’ membership.                                                                                                                       |
+| Social Director                 | At least 1 full seasons' membership.                                                                                                                       |
+| Member at Large                 | At least 1 full seasons' membership.                                                                                                                       |
+| Secretary                       | At least 1 full seasons’ membership.                                                                                                                       |
+| Director of Football Operations | At least 1 full seasons’ membership.                                                                                                                       |
+| Captains and Vice Captains      | At least 1 full seasons’ membership.                                                                                                                       |
 
 In the event of unavoidable absence from the AGM by a voting member, a proxy vote may be delivered to the Secretary. A
 proxy vote must be received by the Secretary at least 24 hours prior to the start of the AGM. Proxy votes shall only be
@@ -288,8 +291,10 @@ matters relevant thereto.
 The Annual General Meeting and all Special General Meetings shall be called by circular addressed to each Member at
 least fourteen (14) days previous to each meeting.
 
-The Club Constitution may be amended at any General Meeting or Annual General Meeting, provided that fifteen days written
-notice of such amendment, citing the Constitution clauses to be changed when appropriate, has been given to all eligible voting
+The Club Constitution may be amended at any General Meeting or Annual General Meeting, provided that fifteen days
+written
+notice of such amendment, citing the Constitution clauses to be changed when appropriate, has been given to all eligible
+voting
 members. Each amendment must have a proposer and seconder, the names of whom should appear on the intended amendment.
 
 ## Members' Voting
@@ -299,7 +304,8 @@ the previous 31st of October shall be entitled to vote at the Annual General Mee
 of the Club.
 
 All propositions, questions and matters submitted in accordance with this Constitution to the Annual General Meeting or
-Special General Meeting excepting alterations to this Constitution as provided for in the Alteration section shall be decided by a
+Special General Meeting excepting alterations to this Constitution as provided for in the Alteration section shall be
+decided by a
 majority of those present to be determined in the first instance by a show of hands unless a ballot be demanded by at
 least ten (10) Members present.
 
