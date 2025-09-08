@@ -124,7 +124,7 @@ USAFL and regardless of whether or not either of those bodies is taking action.
 
 ## Board
 
-The Board shall consist of seven (7) Members of the Club all of whom shall be elected by the
+The Board shall consist of eight (8) Members of the Club all of whom shall be elected by the
 Ordinary and Life Members as provided by this Constitution. The members of the Board shall be known as "Officers."
 The Board shall have final determination on interpretation of the Constitution.
 The Officers of the Club Board shall consist of:
@@ -135,6 +135,7 @@ The Officers of the Club Board shall consist of:
 * Director of Football Operations
 * Treasurer
 * Social Director
+* Director of Growth
 * Member At Large
 
 ### The President
@@ -191,6 +192,13 @@ The Treasurer shall pay all outstanding bills approved by the members and incurr
 The Social Director shall be elected annually.
 The Social Director shall be responsible for planning social events throughout the year.
 
+### Director of Growth
+
+The Director of Growth shall be elected annually.
+The Director of Growth shall be responsible for developing and implementing strategies to grow player numbers.
+The Director of Growth shall be responsible for engaging and maintaining relationships with sponsors.
+The Director of Growth shall work to promote the club and Australian Football in the San Diego community.
+
 ### Member at Large
 
 The Member at Large shall assist the President at the Election during the Annual General Meeting.
@@ -218,6 +226,7 @@ remained so for the following periods of time immediately prior to the AGM:
 | Vice President                  | At least 1 full seasons’ membership, of which at least 1 previous year must have been served in  another Executive position.                               |
 | Treasurer                       | At least 1 full seasons’ membership.                                                                                                                       |
 | Social Director                 | At least 1 full seasons' membership.                                                                                                                       |
+| Director of Growth              | At least 1 full seasons' membership.                                                                                                                       |
 | Member at Large                 | At least 1 full seasons' membership.                                                                                                                       |
 | Secretary                       | At least 1 full seasons’ membership.                                                                                                                       |
 | Director of Football Operations | At least 1 full seasons’ membership.                                                                                                                       |
@@ -253,7 +262,7 @@ Notice of every meeting shall be forwarded by the Secretary to each member of th
 prior to such meeting.
 
 Minutes of all resolutions and proceedings of the Board shall be entered in a book provided for that purpose.
-A majority of the Board (four (4) members) shall form a quorum.
+A majority of the Board (five (5) members) shall form a quorum.
 
 ## Non-Attendance at Board Meetings
 
