@@ -124,7 +124,7 @@ USAFL and regardless of whether or not either of those bodies is taking action.
 
 ## Board
 
-The Board shall consist of the President and six (6) other Members of the Club all of whom shall be elected by the
+The Board shall consist of seven (7) Members of the Club all of whom shall be elected by the
 Ordinary and Life Members as provided by this Constitution. The members of the Board shall be known as "Officers."
 The Board shall have final determination on interpretation of the Constitution.
 The Officers of the Club Board shall consist of:
@@ -221,7 +221,6 @@ remained so for the following periods of time immediately prior to the AGM:
 | Member at Large                 | At least 1 full seasons' membership.                                                                                                                       |
 | Secretary                       | At least 1 full seasons’ membership.                                                                                                                       |
 | Director of Football Operations | At least 1 full seasons’ membership.                                                                                                                       |
-| Captains and Vice Captains      | At least 1 full seasons’ membership.                                                                                                                       |
 
 In the event of unavoidable absence from the AGM by a voting member, a proxy vote may be delivered to the Secretary. A
 proxy vote must be received by the Secretary at least 24 hours prior to the start of the AGM. Proxy votes shall only be
@@ -254,7 +253,7 @@ Notice of every meeting shall be forwarded by the Secretary to each member of th
 prior to such meeting.
 
 Minutes of all resolutions and proceedings of the Board shall be entered in a book provided for that purpose.
-Four (4) members of the Board shall form a quorum.
+A majority of the Board (four (4) members) shall form a quorum.
 
 ## Non-Attendance at Board Meetings
 
@@ -291,11 +290,7 @@ matters relevant thereto.
 The Annual General Meeting and all Special General Meetings shall be called by circular addressed to each Member at
 least fourteen (14) days previous to each meeting.
 
-The Club Constitution may be amended at any General Meeting or Annual General Meeting, provided that fifteen days
-written
-notice of such amendment, citing the Constitution clauses to be changed when appropriate, has been given to all eligible
-voting
-members. Each amendment must have a proposer and seconder, the names of whom should appear on the intended amendment.
+The Club Constitution may be amended at any General Meeting or Annual General Meeting, provided that fourteen (14) days written notice of such amendment, citing the Constitution clauses to be changed when appropriate, has been given to all eligible voting members. Each amendment must have a proposer and seconder, the names of whom should appear on the intended amendment.
 
 ## Members' Voting
 
