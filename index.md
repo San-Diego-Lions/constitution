@@ -93,25 +93,69 @@ remuneration for services rendered to any player or any other person employed by
 
 ### Lifetime Members
 
-1. Life Members may be elected by a Special Resolution of Members present at the Annual General Meeting at the
-   recommendation of the Board for specially meritorious service rendered to the Club. They shall be entitled to all the
-   privileges of Ordinary Members but shall be exempt from payment of annual dues.
-2. Not more than three (3) Life Members may be elected in any one year providing however that any player who has
-   completed one hundred and fifty (150) League Games for the Club may be elected a Life Member at the Annual General
-   Meeting by a Special Resolution of Members present, on the recommendation of the Board.
+1. Life Members may be elected by a Special Resolution of Members present at the Annual General Meeting for specially meritorious service rendered to the Club. They shall be entitled to all the privileges of Ordinary Members but shall be exempt from payment of annual dues.
 
-## Code of Conduct
+2. The election process shall proceed as follows:
+   a. Any club member may nominate candidates for Life Membership by submitting nominations to the Secretary.
+   b. All nominations shall be forwarded to existing Life Members for review and selection.
+   c. Existing Life Members shall select between one (1) and three (3) nominees to forward to the Board, based on merit and specially meritorious service to the Club.
+   d. The Board shall review the selected nominees and may exercise veto power by majority vote if they determine a nominee does not meet the standards for Life Membership.
+   e. All nominees approved by the Board shall be presented to the membership for final election by Special Resolution.
+
+3. Life Member elections may be held at the Annual General Meeting or at the annual Freezer's Ball (Flip Flop Formal).
+
+4. Not more than three (3) Life Members may be elected in any one year.
+
+## Code of Conduct and Disciplinary Procedures
+
+### General Conduct
 
 No member may enter into or obligate The Club in any financial or contractual transaction without the express permission
 of The Club.
 
 All members shall conduct themselves with proper decorum when participating in or representing The Club at any function
 both on and off the field. Any member who acts in a manner prejudicial to the interest of The Club may be held
-accountable for his or her actions to the Board of The Club.
+accountable for his or her actions under these disciplinary procedures.
 
-A complaint against a Club member must be made by a minimum of three (3) current Club members, in writing, to the Board,
-who will then consult as appropriate with all such affected and concerned parties. The Board will issue, by majority
-vote, a binding decision within ten (10) days of the complaint. The Board's interpretation of events will be final.
+### Member Disciplinary Procedures
+
+1. **Complaint Process**: A complaint against any Club member must be made by a minimum of three (3) current Club members, in writing, to the Board, specifying the alleged misconduct and requested action.
+
+2. **Investigation**: The Board shall investigate the complaint within fourteen (14) days, consulting with all affected parties and providing the accused member an opportunity to respond in writing.
+
+3. **Disciplinary Actions**: The Board may impose the following sanctions by majority vote:
+   a. Written warning
+   b. Suspension from specific activities or events
+   c. Suspension from Club membership for up to one (1) year
+   d. Recommendation for expulsion (requires membership vote)
+
+4. **Appeals Process**: Any disciplinary action may be appealed to the membership at the next General Meeting. A majority vote of members present may overturn or modify the Board's decision.
+
+### Board Member Accountability
+
+1. **Constitutional Violations**: If five (5) or more financial members believe a Board member or the Board collectively has violated this Constitution, they may file a formal complaint with the Secretary.
+
+2. **Review Process**: Such complaints shall trigger a Special General Meeting within thirty (30) days to review the alleged constitutional violation.
+
+3. **Member Oversight**: At such meetings, the membership may:
+   a. Censure the Board member(s) by majority vote
+   b. Remove a Board member from office by Special Resolution (3/4 majority)
+   c. Override Board constitutional interpretations by Special Resolution
+   d. Require specific corrective actions
+
+4. **Due Process**: Accused Board members shall have the right to present their defense and explanation before any vote.
+
+### Expulsion Procedures
+
+1. **Grounds**: Members may be expelled for serious misconduct, repeated violations, or actions severely prejudicial to the Club.
+
+2. **Process**: Expulsion requires:
+   a. Board recommendation following investigation
+   b. Special General Meeting with fourteen (14) days' notice
+   c. Special Resolution (3/4 majority) of members present
+   d. Minimum quorum of twenty (20) eligible voting members
+
+3. **Final Appeal**: Expelled members may request reinstatement after one (1) year by petition to a General Meeting.
 
 All members shall be bound by and required to maintain in good faith all decisions, agreements and rulings the members
 shall make at monthly meetings or Annual General Meetings.
@@ -119,8 +163,10 @@ shall make at monthly meetings or Annual General Meetings.
 All members in good standing of the Club are eligible for election to any of the Executive positions as qualified under
 this Constitution. No member can be nominated for office without the member’s prior consent to the nominator.
 
+### External Disciplinary Actions
+
 Disciplinary procedures are deemed solely the responsibility of The Club, regardless of the position of the CAFL or
-USAFL and regardless of whether or not either of those bodies is taking action.
+USAFL and regardless of whether or not either of those bodies is taking action. However, the Club may consider external disciplinary actions when making its own determinations.
 
 ## Board
 
@@ -182,10 +228,10 @@ The Director of Football Operations shall be responsible for planning the club's
 
 The Treasurer shall be elected annually.
 The Treasurer shall maintain a record and a bank account of all money matters for The Club.
-The Treasurer shall present a statement at each monthly meeting and a final statement at the Annual General Meeting.
+The Treasurer shall present a detailed financial statement at each board meeting and a comprehensive annual financial report at the Annual General Meeting.
 The Treasurer shall collect all dues, ground fees and monies from the members for The Club.
 The Treasurer is forbidden from using his/her own personal funds to pay for any Club debts or bills.
-The Treasurer shall pay all outstanding bills approved by the members and incurred by The Club or members.
+The Treasurer shall pay all outstanding bills in accordance with the spending authorization procedures outlined in this Constitution.
 
 ### Social Director
 
@@ -217,6 +263,47 @@ Each year of a term of office shall date from the conclusion of the Annual Gener
 Otherwise than as is herein provided all members of the Board must be elected by the Members for a term of office not
 less than twelve (12) months.
 
+## Emergency Powers and Interim Appointments
+
+In cases of board member burnout, illness, extended unavailability, or excessive workload, the Board may:
+
+1. Temporarily redistribute duties among remaining board members for up to twelve (12) months without requiring a general meeting vote.
+2. Appoint interim non-voting assistants from the club membership to support overwhelmed board members for up to twelve (12) months.
+3. Delegate specific routine tasks to non-board volunteers while maintaining board oversight and final authority.
+
+Such interim arrangements shall be reported to the membership at the Annual General Meeting and may be extended by membership vote if needed beyond the twelve (12) month period. In cases where immediate member input is required, the Board may call a Special General Meeting.
+
+## Officer Succession and Continuity
+
+### Handover Procedures
+
+1. All outgoing Board members shall participate in a formal handover process with their successors within thirty (30) days of the Annual General Meeting.
+
+2. The handover process shall include:
+   a. Transfer of all relevant documents, files, passwords, and materials
+   b. Briefing on ongoing projects, commitments, and responsibilities
+   c. Introduction to key contacts and stakeholders
+   d. Review of position-specific procedures and best practices
+   e. Completion of a written handover report documenting the state of their portfolio
+
+3. The Secretary shall maintain a master file of all handover reports and position documentation.
+
+### Succession Planning
+
+1. The Board shall maintain a succession planning document identifying potential candidates for each Board position.
+
+2. Board members are encouraged to mentor interested club members and delegate responsibilities to develop future leaders.
+
+3. In the event of unexpected vacancy, the Board may appoint an interim replacement who shall receive expedited handover materials and mentoring from other Board members.
+
+### Institutional Knowledge
+
+1. Each Board position shall maintain a procedures manual documenting key responsibilities, annual calendar, and standard operating procedures.
+
+2. These manuals shall be updated annually during the handover process and maintained by the Secretary.
+
+3. The Board shall conduct an annual review of succession planning and institutional knowledge preservation at the first meeting following the Annual General Meeting.
+
 Nominations shall only be considered for those members who are in good standing and whose membership has continuously
 remained so for the following periods of time immediately prior to the AGM:
 
@@ -245,6 +332,17 @@ OR
 A vote received directly from a voting member via email. The email address used to transmit the proxy vote must be on
 record with the Secretary as belonging to that voting member, prior to the receipt of the vote.
 
+## Board Workload Management
+
+The Board shall conduct an annual review of each position's responsibilities and workload, typically at the last board meeting before the Annual General Meeting. This review shall:
+
+1. Assess the time commitment and duties of each board position to ensure reasonable volunteer workloads.
+2. Identify opportunities to redistribute duties, combine positions, or create new support roles as needed.
+3. Establish that no single board member should be expected to dedicate more than ten (10) hours per month to their duties during the regular season, except in extraordinary circumstances.
+4. Document recommended changes to position descriptions and present them to the membership at the next general meeting if constitutional amendments are required.
+
+The Board may create non-voting support committees or delegate routine administrative tasks to club volunteers to maintain manageable workloads for elected officers.
+
 ## Coaches Captains and Vice-Captains
 
 The appointment and removal of the coaches of the Club shall be determined by the Board.
@@ -253,15 +351,46 @@ by the board and shall be approved by majority vote. The nominees will be submit
 
 ## Powers of the Board
 
-The Board shall have the sole management of the affairs and concerns of the Club and has the power to perform all acts
-and deeds as they consider appropriate for the management of the Club.
+### Board Authority
 
-The Board shall meet at least once a month at such time as may be deemed necessary for the transaction of Club business.
+The Board shall have the management of the day-to-day affairs and concerns of the Club within the scope of this Constitution and has the power to perform acts and deeds as they consider appropriate for the management of the Club, subject to the following limitations:
+
+1. **Operational Decisions**: The Board has full authority over routine operations, event planning, team selection, facility bookings, and administrative matters.
+
+2. **Financial Decisions**: Subject to the spending authorization limits outlined in the Financial Controls section.
+
+3. **Policy Decisions**: The Board may establish policies and procedures provided they do not conflict with this Constitution or decisions made by general meetings.
+
+4. **Constitutional Interpretation**: The Board may interpret constitutional provisions for operational purposes, but such interpretations may be reviewed and overridden by membership as outlined in the Member Oversight section.
+
+### Reserved Member Powers
+
+The following decisions are reserved to the membership and cannot be made by the Board alone:
+
+1. Constitutional amendments
+2. Expenditures exceeding limits specified in Financial Controls
+3. Changes to membership categories (but not annual dues amounts)
+4. Dissolution of the Club
+5. Major policy changes affecting member rights or obligations
+6. Disciplinary actions resulting in expulsion
+7. Overriding Board constitutional interpretations
+
+### Board Dues Authority
+
+The Board has the authority to set annual dues amounts for all membership categories, provided that:
+1. Dues amounts are included in the annual budget approved by the Board
+2. Any dues increase exceeding 25% from the previous year requires notification to members at least thirty (30) days before the new dues take effect
+3. The Board may establish payment schedules, late fees, and collection procedures
+
+### Board Meetings and Procedures
+
+The Board shall meet at least six (6) times per year, with additional meetings called as needed for the transaction of Club business. Board meetings may be conducted in person, virtually, or in hybrid format as determined by the Board.
 
 Notice of every meeting shall be forwarded by the Secretary to each member of the Board at least forty-eight (48) hours
-prior to such meeting.
+prior to such meeting. Meeting agendas must be distributed with the meeting notice. Board meetings shall not exceed two (2) hours unless extended by majority vote of members present.
 
-Minutes of all resolutions and proceedings of the Board shall be entered in a book provided for that purpose.
+Minutes of all resolutions and proceedings of the Board shall be entered in a book provided for that purpose and made available to members upon request.
+
 A majority of the Board (five (5) members) shall form a quorum.
 
 ## Non-Attendance at Board Meetings
@@ -276,10 +405,55 @@ re-election in that year and the Board may choose any person to fill any vacancy
 The selection committee of the League Team shall be appointed annually by the Board and shall report and be responsible
 to the Board.
 
-## Banking Account
+## Financial Controls and Banking
 
-All moneys or securities for moneys received by the Club shall be paid into the bank account of the Club as and when the
-same are received and such moneys shall be used for the expenses of the Club.
+### Banking and Signatures
+
+1. All moneys or securities for moneys received by the Club shall be paid into the bank account of the Club as and when the same are received and such moneys shall be used for the expenses of the Club.
+
+2. All bank accounts shall require two (2) authorized approvals from among the President, Vice President, Treasurer, and Secretary for any transaction exceeding fifty dollars ($50). Approvals may be provided through physical signatures, electronic signatures, or secure electronic authentication methods as accepted by the Club's banking institution.
+
+3. The Treasurer may authorize single-signature transactions up to fifty dollars ($50) for routine operational expenses.
+
+### Spending Authorization
+
+1. **Routine Expenses (up to $500)**: May be approved by the Treasurer for budgeted items including equipment maintenance, facility fees, and administrative costs. Transactions over fifty dollars ($50) require two authorized approvals for banking purposes.
+
+2. **Operational Expenses ($501-$2,500)**: Require majority approval of the Board and two authorized approvals for banking purposes.
+
+3. **Significant Expenses ($2,501-$10,000)**: Require unanimous Board approval, two authorized approvals for banking purposes, and must be reported to membership at the Annual General Meeting.
+
+4. **Major Expenses (over $10,000)**: Require prior approval by Special Resolution at the Annual General Meeting or a Special General Meeting called for that purpose, plus two authorized approvals for banking purposes.
+
+### Budget and Financial Planning
+
+1. The Board shall prepare and approve an annual budget, typically in January following the Annual General Meeting.
+
+2. The annual budget, once approved by majority vote of the Board, shall serve as authorization for routine and operational expenses within budgeted amounts, subject to the individual transaction approval limits outlined above.
+
+3. The approved budget shall be presented to members for information at the next general meeting or distributed electronically within thirty (30) days of Board approval.
+
+4. Any expenditure exceeding 120% of a budgeted line item requires additional authorization per the spending limits above.
+
+### Financial Reporting and Transparency
+
+1. The Treasurer shall provide financial summaries to all members at least quarterly (every three months).
+
+2. All members have the right to inspect financial records during reasonable business hours with 48-hour notice to the Treasurer.
+
+3. Annual financial statements must be presented in a format showing:
+   a. Income and expenses by category
+   b. Balance sheet of assets and liabilities
+   c. Comparison to previous year and budget
+   d. Explanation of any significant variances
+
+### Conflict of Interest
+
+1. Board members must declare any financial interest in transactions exceeding fifty dollars ($50).
+
+2. Board members with declared conflicts may not provide approval for related expenditures.
+
+3. No Board member or their immediate family may receive payment from the Club exceeding five hundred dollars ($500) in any calendar year without prior membership approval.
 
 ## Auditors
 
@@ -309,14 +483,28 @@ of the Club.
 
 All propositions, questions and matters submitted in accordance with this Constitution to the Annual General Meeting or
 Special General Meeting excepting alterations to this Constitution as provided for in the Alteration section shall be
-decided by a
-majority of those present to be determined in the first instance by a show of hands unless a ballot be demanded by at
+decided by a majority of those present to be determined in the first instance by a show of hands unless a ballot be demanded by at
 least ten (10) Members present.
+
+In the event of a tie vote, the President shall cast the deciding vote. If the President is absent or has a conflict of interest, the Vice President shall cast the deciding vote.
+
+### Proxy Voting
+
+In the event of unavoidable absence from any General Meeting by a voting member, a proxy vote may be delivered to the Secretary. A proxy vote must be received by the Secretary at least 24 hours prior to the start of the meeting.
+
+A proxy vote is defined as follows:
+A vote received directly from a voting member through any of the following methods:
+a. In person delivery with physical signature
+b. Mail delivery in sealed envelope with physical signature
+c. Email from the member's registered email address
+d. Electronic signature through approved digital platforms
+
+Proxy votes shall only be accepted for matters that have been properly noticed to all members in advance of the meeting.
 
 ### Quorum
 
 At the Annual General Meeting and at Special General Meetings fifteen (15) Members who are eligible to vote shall
-constitute a quorum.
+constitute a quorum. Proxy votes shall count toward quorum requirements.
 
 ## Financial Year
 
@@ -333,17 +521,66 @@ respectively and words importing the masculine, feminine or neuter gender shall 
 
 ## Alteration
 
-No clause shall be amended or repealed nor shall any new clause inserted except on the vote of a Special Resolution of
-Members present at the Annual General Meeting or a Special General Meeting duly convened and for the purpose of this
-clause fifteen (15) Members shall constitute a quorum. Notice of any proposed amendment, repeal or addition must be
-given by notice in writing to the Secretary in time for them to give fourteen (14) days' notice of such amendment
-or addition or repeal to all Members.
+### Amendment Proposal Process
+
+1. Constitutional amendments may be proposed by:
+   a. The Board by majority resolution
+   b. Any five (5) financial members acting jointly
+   c. Any individual member with the written support of ten (10) other financial members
+
+2. All proposed amendments must be submitted to the Secretary in writing, including:
+   a. The specific constitutional text to be amended, repealed, or added
+   b. The exact wording of the proposed changes
+   c. A rationale explaining the purpose and benefit of the amendment
+   d. The names and authentication of the proposer(s) and seconder (physical signature, electronic signature, or email from registered address)
+
+### Amendment Voting Process
+
+1. No clause shall be amended or repealed nor shall any new clause inserted except on the vote of a Special Resolution of Members present at the Annual General Meeting or a Special General Meeting duly convened.
+
+2. Notice of any proposed amendment must be given in writing to the Secretary at least twenty-one (21) days before the meeting to allow for fourteen (14) days' notice to all Members.
+
+3. The full text of proposed amendments must be distributed to all members with the meeting notice.
+
+4. Minor editorial changes to proposed amendments may be made during the meeting by majority vote, provided they do not alter the substance of the amendment.
+
+5. For the purpose of constitutional amendments, fifteen (15) Members who are eligible to vote shall constitute a quorum.
+
+### Emergency Amendments
+
+In extraordinary circumstances requiring immediate constitutional changes, emergency amendments may be passed at a Special General Meeting called with seven (7) days' notice, provided:
+1. Two-thirds (2/3) of the Board approves calling the emergency meeting
+2. The amendment receives a four-fifths (4/5) majority vote
+3. At least twenty (20) eligible members are present
 
 ## Trustees
 
 There shall be three (3) Trustees appointed by the Board one of whom may be the President for such period as the
 Board determines. Such Trustees shall be the signatories to the Club's Bank Accounts and the persons authorised to
 witness the affixing of the Common Seal to all agreements binding the Club.
+
+## Electronic Authentication
+
+### Acceptable Authentication Methods
+
+For all Club business requiring signatures or authentication, the following methods shall be considered valid and legally binding:
+
+1. **Physical Signatures**: Traditional handwritten signatures on paper documents
+2. **Electronic Signatures**: Digital signatures using approved electronic signature platforms
+3. **Email Authentication**: Communications sent from a member's registered email address on file with the Secretary
+4. **Secure Digital Platforms**: Authentication through Club-approved digital platforms with verified member accounts
+
+### Email Authentication Requirements
+
+1. **Registered Email Addresses**: All members must provide and maintain a current email address with the Secretary
+2. **Authentication Validity**: Communications from registered email addresses shall be considered authentic unless the member reports their email as compromised
+3. **Confirmation Process**: For significant decisions, the Secretary may request email confirmation within 24 hours to verify authenticity
+
+### Document Distribution and Notice
+
+1. **Electronic Distribution**: All notices, amendments, financial reports, and official communications may be distributed electronically to members' registered email addresses
+2. **Delivery Confirmation**: Electronic delivery shall be considered complete when sent to the registered email address, regardless of whether the member opens or reads the communication
+3. **Alternative Delivery**: Members may request physical copies of documents, but electronic delivery remains the default method
 
 ## Property
 
