@@ -458,13 +458,25 @@ to the Board.
 ## Auditors
 
 The accounts of the Club shall be audited by at least one (1) person who is a qualified accountant, such person may be a
-Member or an employee of a firm of Accountants. The Auditor shall be appointed at the Annual General Meeting.
+Member or an employee of a firm of Accountants. The Auditor shall be appointed by the Board and the appointment reported to the Annual General Meeting for information.
 
 ## Meetings
 
 The Annual General Meeting of Members shall be held not later than 15 December in each year for the purpose of receiving
-the Annual Report of the Board, the Balance Sheet, the election of officers of the Club for the ensuing season and any
-other general business which may be submitted to the meeting.
+summary presentations of the Annual Report of the Board and financial statements, the election of officers of the Club for the ensuing season, and any other general business which may be submitted to the meeting.
+
+### AGM Efficiency Procedures
+
+1. **Pre-Meeting Distribution**: The following documents shall be distributed electronically to all members at least seven (7) days before the Annual General Meeting:
+   a. Complete Annual Report of the Board
+   b. Detailed annual financial statements and balance sheet
+   c. Annual budget information
+   d. Auditor's report (if available)
+   e. Any proposed constitutional amendments
+
+2. **Summary Presentations**: At the AGM, only brief summary presentations of pre-distributed reports are required, with adequate time allocated for member questions and discussion.
+
+3. **Document Availability**: Physical copies of all reports shall be available at the meeting for members who request them.
 
 Special General Meetings shall be called by the Board whenever a majority of the Board agree. At all Special General
 Meetings no business shall be transacted other than that specified in the notice convening such meetings and other
