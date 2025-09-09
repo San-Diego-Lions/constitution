@@ -234,7 +234,7 @@ This package of four (4) constitutional amendments focuses on practical improvem
 If passed, these amendments shall take effect immediately following the meeting at which they are approved, with the following implementation schedule:
 
 1. **Amendment 1 (Board Efficiency):** Effective immediately for all future board meetings and current Board use
-2. **Amendment 2 (Financial Controls):** Effective immediately, with 30-day transition period for banking procedures
+2. **Amendment 2 (Financial Controls):** Effective immediately, with 30-day transition period for banking procedures  
 3. **Amendment 3 (Electronic Operations):** Effective immediately, with 60-day transition period for member email registration
 4. **Amendment 4 (Succession Planning):** Handover procedures effective for next officer transition
 
@@ -243,7 +243,7 @@ If passed, these amendments shall take effect immediately following the meeting 
 ## Voting Requirements
 
 - **Quorum:** Fifteen (15) eligible voting members must be present
-- **Majority Required:** Three-fourths (3/4) majority of members present
+- **Majority Required:** Three-fourths (3/4) majority of members present  
 - **Eligible Voters:** Ordinary and Life Members who are financial members or were financial members for the year concluding the previous 31st of October
 
 ---
@@ -252,7 +252,7 @@ If passed, these amendments shall take effect immediately following the meeting 
 Proposer: _________________________ Date: _________
 Authentication Method: [ ] Physical Signature [ ] Electronic Signature [ ] Email from Registered Address
 
-Seconder: _________________________ Date: _________
+Seconder: _________________________ Date: _________  
 Authentication Method: [ ] Physical Signature [ ] Electronic Signature [ ] Email from Registered Address
 
 **Secretary's Certification:**

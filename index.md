@@ -93,69 +93,25 @@ remuneration for services rendered to any player or any other person employed by
 
 ### Lifetime Members
 
-1. Life Members may be elected by a Special Resolution of Members present at the Annual General Meeting for specially meritorious service rendered to the Club. They shall be entitled to all the privileges of Ordinary Members but shall be exempt from payment of annual dues.
+1. Life Members may be elected by a Special Resolution of Members present at the Annual General Meeting at the
+   recommendation of the Board for specially meritorious service rendered to the Club. They shall be entitled to all the
+   privileges of Ordinary Members but shall be exempt from payment of annual dues.
+2. Not more than three (3) Life Members may be elected in any one year providing however that any player who has
+   completed one hundred and fifty (150) League Games for the Club may be elected a Life Member at the Annual General
+   Meeting by a Special Resolution of Members present, on the recommendation of the Board.
 
-2. The election process shall proceed as follows:
-   a. Any club member may nominate candidates for Life Membership by submitting nominations to the Secretary.
-   b. All nominations shall be forwarded to existing Life Members for review and selection.
-   c. Existing Life Members shall select between one (1) and three (3) nominees to forward to the Board, based on merit and specially meritorious service to the Club.
-   d. The Board shall review the selected nominees and may exercise veto power by majority vote if they determine a nominee does not meet the standards for Life Membership.
-   e. All nominees approved by the Board shall be presented to the membership for final election by Special Resolution.
-
-3. Life Member elections may be held at the Annual General Meeting or at the annual Freezer's Ball (Flip Flop Formal).
-
-4. Not more than three (3) Life Members may be elected in any one year.
-
-## Code of Conduct and Disciplinary Procedures
-
-### General Conduct
+## Code of Conduct
 
 No member may enter into or obligate The Club in any financial or contractual transaction without the express permission
 of The Club.
 
 All members shall conduct themselves with proper decorum when participating in or representing The Club at any function
 both on and off the field. Any member who acts in a manner prejudicial to the interest of The Club may be held
-accountable for his or her actions under these disciplinary procedures.
+accountable for his or her actions to the Board of The Club.
 
-### Member Disciplinary Procedures
-
-1. **Complaint Process**: A complaint against any Club member must be made by a minimum of three (3) current Club members, in writing, to the Board, specifying the alleged misconduct and requested action.
-
-2. **Investigation**: The Board shall investigate the complaint within fourteen (14) days, consulting with all affected parties and providing the accused member an opportunity to respond in writing.
-
-3. **Disciplinary Actions**: The Board may impose the following sanctions by majority vote:
-   a. Written warning
-   b. Suspension from specific activities or events
-   c. Suspension from Club membership for up to one (1) year
-   d. Recommendation for expulsion (requires membership vote)
-
-4. **Appeals Process**: Any disciplinary action may be appealed to the membership at the next General Meeting. A majority vote of members present may overturn or modify the Board's decision.
-
-### Board Member Accountability
-
-1. **Constitutional Violations**: If five (5) or more financial members believe a Board member or the Board collectively has violated this Constitution, they may file a formal complaint with the Secretary.
-
-2. **Review Process**: Such complaints shall trigger a Special General Meeting within thirty (30) days to review the alleged constitutional violation.
-
-3. **Member Oversight**: At such meetings, the membership may:
-   a. Censure the Board member(s) by majority vote
-   b. Remove a Board member from office by Special Resolution (3/4 majority)
-   c. Override Board constitutional interpretations by Special Resolution
-   d. Require specific corrective actions
-
-4. **Due Process**: Accused Board members shall have the right to present their defense and explanation before any vote.
-
-### Expulsion Procedures
-
-1. **Grounds**: Members may be expelled for serious misconduct, repeated violations, or actions severely prejudicial to the Club.
-
-2. **Process**: Expulsion requires:
-   a. Board recommendation following investigation
-   b. Special General Meeting with fourteen (14) days' notice
-   c. Special Resolution (3/4 majority) of members present
-   d. Minimum quorum of twenty (20) eligible voting members
-
-3. **Final Appeal**: Expelled members may request reinstatement after one (1) year by petition to a General Meeting.
+A complaint against a Club member must be made by a minimum of three (3) current Club members, in writing, to the Board,
+who will then consult as appropriate with all such affected and concerned parties. The Board will issue, by majority
+vote, a binding decision within ten (10) days of the complaint. The Board's interpretation of events will be final.
 
 All members shall be bound by and required to maintain in good faith all decisions, agreements and rulings the members
 shall make at monthly meetings or Annual General Meetings.
@@ -271,7 +227,18 @@ In cases of board member burnout, illness, extended unavailability, or excessive
 2. Appoint interim non-voting assistants from the club membership to support overwhelmed board members for up to twelve (12) months.
 3. Delegate specific routine tasks to non-board volunteers while maintaining board oversight and final authority.
 
-Such interim arrangements shall be reported to the membership at the Annual General Meeting and may be extended by membership vote if needed beyond the twelve (12) month period. In cases where immediate member input is required, the Board may call a Special General Meeting.
+Such interim arrangements shall be reported to the membership at the Annual General Meeting and may be extended by membership vote if needed beyond the twelve (12) month period.
+
+## Board Workload Management
+
+The Board shall conduct an annual review of each position's responsibilities and workload, typically at the last board meeting before the Annual General Meeting. This review shall:
+
+1. Assess the time commitment and duties of each board position to ensure reasonable volunteer workloads.
+2. Identify opportunities to redistribute duties, combine positions, or create new support roles as needed.
+3. Establish that no single board member should be expected to dedicate more than ten (10) hours per month to their duties during the regular season, except in extraordinary circumstances.
+4. Document recommended changes to position descriptions and present them to the membership at the next general meeting if constitutional amendments are required.
+
+The Board may create non-voting support committees or delegate routine administrative tasks to club volunteers to maintain manageable workloads for elected officers.
 
 ## Officer Succession and Continuity
 
@@ -353,34 +320,7 @@ by the board and shall be approved by majority vote. The nominees will be submit
 
 ### Board Authority
 
-The Board shall have the management of the day-to-day affairs and concerns of the Club within the scope of this Constitution and has the power to perform acts and deeds as they consider appropriate for the management of the Club, subject to the following limitations:
-
-1. **Operational Decisions**: The Board has full authority over routine operations, event planning, team selection, facility bookings, and administrative matters.
-
-2. **Financial Decisions**: Subject to the spending authorization limits outlined in the Financial Controls section.
-
-3. **Policy Decisions**: The Board may establish policies and procedures provided they do not conflict with this Constitution or decisions made by general meetings.
-
-4. **Constitutional Interpretation**: The Board may interpret constitutional provisions for operational purposes, but such interpretations may be reviewed and overridden by membership as outlined in the Member Oversight section.
-
-### Reserved Member Powers
-
-The following decisions are reserved to the membership and cannot be made by the Board alone:
-
-1. Constitutional amendments
-2. Expenditures exceeding limits specified in Financial Controls
-3. Changes to membership categories (but not annual dues amounts)
-4. Dissolution of the Club
-5. Major policy changes affecting member rights or obligations
-6. Disciplinary actions resulting in expulsion
-7. Overriding Board constitutional interpretations
-
-### Board Dues Authority
-
-The Board has the authority to set annual dues amounts for all membership categories, provided that:
-1. Dues amounts are included in the annual budget approved by the Board
-2. Any dues increase exceeding 25% from the previous year requires notification to members at least thirty (30) days before the new dues take effect
-3. The Board may establish payment schedules, late fees, and collection procedures
+The Board shall have the sole management of the affairs and concerns of the Club and has the power to perform all acts and deeds as they consider appropriate for the management of the Club.
 
 ### Board Meetings and Procedures
 
