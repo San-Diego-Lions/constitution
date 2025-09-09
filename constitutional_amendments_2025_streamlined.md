@@ -94,7 +94,7 @@ The approved budget shall be presented to members for information at the next ge
 
 ### **Basic Financial Reporting**
 ```
-The Treasurer shall provide financial summaries to all members at least quarterly (every three months). All members have the right to inspect financial records during reasonable business hours with 48-hour notice to the Treasurer.
+All members have the right to inspect financial records during reasonable business hours with 48-hour notice to the Treasurer.
 
 Board members must declare any financial interest in transactions exceeding fifty dollars ($50). Board members with declared conflicts may not provide approval for related expenditures.
 ```

@@ -119,10 +119,8 @@ shall make at monthly meetings or Annual General Meetings.
 All members in good standing of the Club are eligible for election to any of the Executive positions as qualified under
 this Constitution. No member can be nominated for office without the member’s prior consent to the nominator.
 
-### External Disciplinary Actions
-
 Disciplinary procedures are deemed solely the responsibility of The Club, regardless of the position of the CAFL or
-USAFL and regardless of whether or not either of those bodies is taking action. However, the Club may consider external disciplinary actions when making its own determinations.
+USAFL and regardless of whether or not either of those bodies is taking action.
 
 ## Board
 
@@ -377,9 +375,7 @@ to the Board.
 
 ### Financial Reporting and Transparency
 
-1. The Treasurer shall provide financial summaries to all members at least quarterly (every three months).
-
-2. All members have the right to inspect financial records during reasonable business hours with 48-hour notice to the Treasurer.
+1. All members have the right to inspect financial records during reasonable business hours with 48-hour notice to the Treasurer.
 
 3. Annual financial statements must be presented in a format showing:
    a. Income and expenses by category
