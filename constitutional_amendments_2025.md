@@ -1,15 +1,15 @@
 # Constitutional Amendments Package 2025 - Streamlined
 ## San Diego Lions Australian Rules Football Club
 
-**Date:** September 8, 2025  
-**Proposer:** [TO BE FILLED]  
-**Seconder:** [TO BE FILLED]  
+**Date:** October 1, 2025  
+**Proposer:** Brendan Heussler  
+**Seconder:** Seb Lindner
 
 ---
 
 ## Notice of Constitutional Amendments
 
-In accordance with the Club Constitution, fourteen (14) days written notice is hereby given of the following proposed amendments to be voted upon at the [Annual General Meeting / Special General Meeting] on [DATE].
+In accordance with the Club Constitution, fourteen (14) days written notice is hereby given of the following proposed amendments to be voted upon at the Annual General Meeting on 10/25/2025.
 
 These amendments require a Special Resolution (three-fourths majority) of Members present to pass.
 
@@ -249,11 +249,11 @@ If passed, these amendments shall take effect immediately following the meeting 
 ---
 
 **Submitted by:**
-Proposer: _________________________ Date: _________
-Authentication Method: [ ] Physical Signature [ ] Electronic Signature [ ] Email from Registered Address
+Proposer: Brendan Heussler Date: 09/08/2025
+Authentication Method: [ ] Physical Signature [x] Electronic Signature [ ] Email from Registered Address
 
-Seconder: _________________________ Date: _________
-Authentication Method: [ ] Physical Signature [ ] Electronic Signature [ ] Email from Registered Address
+Seconder: Seb Lindner Date: 09/08/2025
+Authentication Method: [ ] Physical Signature [x] Electronic Signature [ ] Email from Registered Address
 
 **Secretary's Certification:**
 I certify that this notice has been distributed to all eligible voting members at least fourteen (14) days prior to the meeting date.
