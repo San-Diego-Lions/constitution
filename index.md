@@ -217,6 +217,22 @@ Each year of a term of office shall date from the conclusion of the Annual Gener
 Otherwise than as is herein provided all members of the Board must be elected by the Members for a term of office not
 less than twelve (12) months.
 
+### Nomination Requirements
+
+Nominations shall only be considered for those members who are in good standing and whose membership has continuously
+remained so for the following periods of time immediately prior to the AGM:
+
+| Position                        | Requirement                                                                                                                                                 |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| President                       | At least 2 full seasons' membership, of which at least 2 previous years (not necessarily consecutive) must have been served in another Executive position.  |
+| Vice President                  | At least 1 full seasons' membership, of which at least 1 previous year must have been served in another Executive position.                                 |
+| Treasurer                       | At least 1 full seasons' membership.                                                                                                                        |
+| Social Director                 | At least 1 full seasons' membership.                                                                                                                        |
+| Director of Growth              | At least 1 full seasons' membership.                                                                                                                        |
+| Member at Large                 | At least 1 full seasons' membership.                                                                                                                        |
+| Secretary                       | At least 1 full seasons' membership.                                                                                                                        |
+| Director of Football Operations | At least 1 full seasons' membership.                                                                                                                        |
+
 ## Emergency Powers and Interim Appointments
 
 In cases of board member burnout, illness, extended unavailability, or excessive workload, the Board may:
@@ -268,45 +284,6 @@ The Board may create non-voting support committees or delegate routine administr
 2. These manuals shall be updated annually during the handover process and maintained by the Secretary.
 
 3. The Board shall conduct an annual review of succession planning and institutional knowledge preservation at the first meeting following the Annual General Meeting.
-
-Nominations shall only be considered for those members who are in good standing and whose membership has continuously
-remained so for the following periods of time immediately prior to the AGM:
-
-| Position                        | Requirement                                                                                                                                                |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| President                       | At least 2 full seasons’ membership, of which at least 2 previous years (not necessarily consecutive) must have been served in another Executive position. |
-| Vice President                  | At least 1 full seasons’ membership, of which at least 1 previous year must have been served in  another Executive position.                               |
-| Treasurer                       | At least 1 full seasons’ membership.                                                                                                                       |
-| Social Director                 | At least 1 full seasons' membership.                                                                                                                       |
-| Director of Growth              | At least 1 full seasons' membership.                                                                                                                       |
-| Member at Large                 | At least 1 full seasons' membership.                                                                                                                       |
-| Secretary                       | At least 1 full seasons’ membership.                                                                                                                       |
-| Director of Football Operations | At least 1 full seasons’ membership.                                                                                                                       |
-
-In the event of unavoidable absence from the AGM by a voting member, a proxy vote may be delivered to the Secretary. A
-proxy vote must be received by the Secretary at least 24 hours prior to the start of the AGM. Proxy votes shall only be
-accepted for those nominations that have met the closing date and been published to all members.
-
-A proxy vote is defined as follows:
-
-A vote received directly from a voting member, either in person or via mail, in a sealed envelope and signed by the
-voting member;
-
-OR
-
-A vote received directly from a voting member via email. The email address used to transmit the proxy vote must be on
-record with the Secretary as belonging to that voting member, prior to the receipt of the vote.
-
-## Board Workload Management
-
-The Board shall conduct an annual review of each position's responsibilities and workload, typically at the last board meeting before the Annual General Meeting. This review shall:
-
-1. Assess the time commitment and duties of each board position to ensure reasonable volunteer workloads.
-2. Identify opportunities to redistribute duties, combine positions, or create new support roles as needed.
-3. Establish that no single board member should be expected to dedicate more than ten (10) hours per month to their duties during the regular season, except in extraordinary circumstances.
-4. Document recommended changes to position descriptions and present them to the membership at the next general meeting if constitutional amendments are required.
-
-The Board may create non-voting support committees or delegate routine administrative tasks to club volunteers to maintain manageable workloads for elected officers.
 
 ## Coaches Captains and Vice-Captains
 
@@ -377,7 +354,7 @@ to the Board.
 
 1. All members have the right to inspect financial records during reasonable business hours with 48-hour notice to the Treasurer.
 
-3. Annual financial statements must be presented in a format showing:
+2. Annual financial statements must be presented in a format showing:
    a. Income and expenses by category
    b. Balance sheet of assets and liabilities
    c. Comparison to previous year and budget
